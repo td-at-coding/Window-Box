@@ -20,6 +20,10 @@
     transform: translateY(-50%);
     font-size: 20px;
   }
+  
+  svg{
+    transform: scale(0.4);
+  }
 }
 .Exit-Button:hover{
   background-color: red;
